@@ -1,8 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=200&section=header&text=Pokedex&fontSize=60&fontColor=ffffff)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-# Pokedex
 
 Uma Pokédex desenvolvida como atividade de revisão, consumindo a PokéAPI para listar e exibir informações dos Pokémons.
 
@@ -37,3 +37,5 @@ npm run dev
 ## Autor
 
 - Carlos Henrique
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer)
