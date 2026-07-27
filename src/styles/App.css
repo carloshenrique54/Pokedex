@@ -1,0 +1,25 @@
+h1{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokedex{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.pag1, .pag2{
+  width: 50%;
+}
+
+.pag2{
+  display: flex;
+  justify-content: center;
+}
+
+.pokeCadastro{
+  width: 50%;
+}
